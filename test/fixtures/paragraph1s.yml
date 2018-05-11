@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  character_name: MyString
+  color: MyString
+  location: MyString
+  animal: MyString
+  adjective1: MyString
+  adjective2: MyString
+  animal2: MyString
+  famous_person: MyString
+  adjective3: MyString
+
+two:
+  character_name: MyString
+  color: MyString
+  location: MyString
+  animal: MyString
+  adjective1: MyString
+  adjective2: MyString
+  animal2: MyString
+  famous_person: MyString
+  adjective3: MyString

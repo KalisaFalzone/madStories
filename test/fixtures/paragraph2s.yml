@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  age: 1
+  sound: MyString
+  location: MyString
+  game: MyString
+  adjective1: MyString
+  sport: MyString
+  type_of_music: MyString
+  adjective2: MyString
+  ice_cream_flavor: MyString
+  pet_name: MyString
+  adjective3: MyString
+
+two:
+  age: 1
+  sound: MyString
+  location: MyString
+  game: MyString
+  adjective1: MyString
+  sport: MyString
+  type_of_music: MyString
+  adjective2: MyString
+  ice_cream_flavor: MyString
+  pet_name: MyString
+  adjective3: MyString
